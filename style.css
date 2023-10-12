@@ -27,3 +27,8 @@ h1 {
     font-weight: bold;
     color: rgb(0, 4, 255);
 }
+
+/* estilo para a tabela */
+#dataTable tbody tr:nth-child(even) {
+    background-color: #6759594e;
+}
