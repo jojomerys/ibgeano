@@ -30,3 +30,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
     categorySelect.dispatchEvent(new Event("change"));
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+    let visitorCount = localStorage.getItem("visitorCount");
+
+    if (visitorCount) {
+        visitorCount = parseInt(visitorCount);
+        visitorCount += 1;
+    } else {
+        visitorCount = 1;
+    }
+
+    localStorage.setItem("visitorCount", visitorCount);
+
+    const visitorCountElement = document.getElementById("visitorCount");
+    visitorCountElement.textContent = `Visitantes: ${visitorCount}`;
+});
