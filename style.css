@@ -32,3 +32,11 @@ h1 {
 #dataTable tbody tr:nth-child(even) {
     background-color: #6759594e;
 }
+
+.last-updated {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 14px;
+    color: #888;
+}
