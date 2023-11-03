@@ -24,8 +24,15 @@ h1 {
 
 /* nomes destacados */
 .destacado {
-    font-weight: bold;
-    color: rgb(0, 4, 255);
+    color: rgb(29, 32, 218);
+}
+
+.destacado2 {
+    color:rgb(34, 130, 8);
+}
+
+.destacado3 {
+    color:rgb(180, 50, 163);
 }
 
 /* estilo para a tabela */

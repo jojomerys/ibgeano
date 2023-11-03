@@ -23,6 +23,14 @@ document.addEventListener("DOMContentLoaded", function () {
                         nameCell.classList.add("destacado");
                     }
 
+                    if (item.estilo === "destacado2") {
+                        nameCell.classList.add("destacado2");
+                    }
+
+                    if (item.estilo === "destacado3") {
+                        nameCell.classList.add("destacado3");
+                    }
+
                     nameCell.textContent = item.nome;
                 });
             });

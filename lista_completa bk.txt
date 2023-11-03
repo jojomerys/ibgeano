@@ -9,12 +9,20 @@
             "estilo": "destacado"
         },
         {
+            "nome": "PHILLIPE DEL CORNO LEITE (CONVOCADO SCQ)",
+            "estilo": "destacado3"
+        },
+        {
             "nome": "LUCAS CHAGAS TAVARES DE OLIVEIRA",
             "estilo": "destacado"
         },
         {
             "nome": "FELIPE GASPAR PERESTRELLO DE MENEZES",
             "estilo": "destacado"
+        },
+        {
+            "nome": "MATHEUS DE CARVALHO XAVIER - (2º ACMAP)",
+            "estilo": "destacado2"
         },
         {
             "nome": "LUCAS MOURA DE MELLO",
@@ -71,6 +79,10 @@
         {
             "nome": "IGOR DE ALMEIDA FREITAS",
             "estilo": "destacado"
+        },
+        {
+            "nome": "GABRIEL DO NASCIMENTO BERRIEL LADEIRA (CONVOCADO SCQ)",
+            "estilo": "destacado3"
         },
         {
             "nome": "VICTOR PROENCA BATISTA DE CARVALHO",
@@ -147,6 +159,10 @@
         {
             "nome": "CAMILLA PALHARES DA COSTA VILLAR",
             "estilo": "destacado"
+        },
+        {
+            "nome": "HENRIQUE PINHEIRO COSTA DA SILVA (CONVOCADO SCQ)",
+            "estilo": "destacado3"
         },
         {
             "nome": "GABRIEL CARVALHO DA SILVA",
@@ -610,6 +626,10 @@
             "estilo": "destacado"
         },
         {
+            "nome": "MARIANA SANTOS LEMOS - (4º ACMAP) - (CONVOCADO SCQ)",
+            "estilo": "destacado3"
+        },
+        {
             "nome": "JORGE AUGUSTO ELIAS JUNIOR",
             "estilo": "destacado"
         },
@@ -634,7 +654,15 @@
             "estilo": "destacado"
         },
         {
+            "nome": "INGRID VIEIRA DE SOUZA - (3º ACMAP)",
+            "estilo": "destacado2"
+        },
+        {
             "nome": "RAFAEL ALVES ESTEVES JULIO"
+        },
+        {
+            "nome": "LUCIUS MENEZES VILLAR - (1º ACMAP) - (CONVOCADO SCQ)",
+            "estilo": "destacado3"
         },
         {
             "nome": "IVANILDO LUIZ DOS SANTOS"
